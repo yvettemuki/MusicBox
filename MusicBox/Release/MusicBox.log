@@ -1,0 +1,82 @@
+﻿  AudioWave.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Camera.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  mesh.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\mesh.cpp(84,22): warning C4018: '<': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\mesh.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\mesh.cpp(193,25): warning C4018: '<': signed/unsigned mismatch
+  MusicBox.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(184,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(185,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(186,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(189,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(372,42): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(498,23): warning C4018: '<': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(536,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(560,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(566,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(881,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(882,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(583,52): warning C4018: '>=': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(502): message : while compiling class template member function 'bool AudioFile<float>::decodeWaveFile(std::vector<uint8_t,std::allocator<uint8_t>> &)'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(486): message : see reference to function template instantiation 'bool AudioFile<float>::decodeWaveFile(std::vector<uint8_t,std::allocator<uint8_t>> &)' being compiled
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(267): message : while compiling class template member function 'AudioFile<float>::AudioFile(void)'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(79): message : see reference to function template instantiation 'AudioFile<float>::AudioFile(void)' being compiled
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\MusicBox.cpp(79): message : see reference to class template instantiation 'AudioFile<float>' being compiled
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(727,52): warning C4018: '>=': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(644): message : while compiling class template member function 'bool AudioFile<float>::decodeAiffFile(std::vector<uint8_t,std::allocator<uint8_t>> &)'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(490): message : see reference to function template instantiation 'bool AudioFile<float>::decodeAiffFile(std::vector<uint8_t,std::allocator<uint8_t>> &)' being compiled
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(1224,14): warning C4018: '<': signed/unsigned mismatch
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(1215): message : while compiling class template member function 'int AudioFile<float>::getIndexOfChunk(std::vector<uint8_t,std::allocator<uint8_t>> &,const std::string &,int,AudioFile<float>::Endianness)'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(511): message : see reference to function template instantiation 'int AudioFile<float>::getIndexOfChunk(std::vector<uint8_t,std::allocator<uint8_t>> &,const std::string &,int,AudioFile<float>::Endianness)' being compiled
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(1152): message : while compiling class template member function 'AudioFileFormat AudioFile<float>::determineAudioFileFormat(std::vector<uint8_t,std::allocator<uint8_t>> &)'
+D:\cgt520\Final Project - Music Box\MusicBox\MusicBox\AudioFile.h(482): message : see reference to function template instantiation 'AudioFileFormat AudioFile<float>::determineAudioFileFormat(std::vector<uint8_t,std::allocator<uint8_t>> &)' being compiled
+  utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2680 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MusicBox.vcxproj -> D:\cgt520\Final Project - Music Box\MusicBox\Release\MusicBox.exe
